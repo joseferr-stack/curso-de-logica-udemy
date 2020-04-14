@@ -1,2 +1,2 @@
 # curso-de-logica-udemy
- material do curso de logica de programacao da udemy
+ Material do curso de **logica de programacao** da *udemy*
